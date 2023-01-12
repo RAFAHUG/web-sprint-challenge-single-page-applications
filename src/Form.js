@@ -115,7 +115,7 @@ const Form = (props) => {
                 </label>
             
                 <button 
-                id="order-button" 
+                id="order-button"
                 disabled={disabled}
                 >Add to Order</button>
 
